@@ -1,8 +1,8 @@
-English | [简体中文](./README.zh-CN.md)
+[English](./README.md) | 简体中文
 
 # e-substring
 
-Extract characters in a string that are between two specified strings.
+在两个指定字符串之间提取字符串中的字符。
 
 ## Installation
 
