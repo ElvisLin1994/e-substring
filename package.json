@@ -1,0 +1,23 @@
+{
+  "name": "e-substring",
+  "version": "0.0.2",
+  "description": "Extract characters in a string that are between two specified strings",
+  "author": {
+    "name": "Elvis Lin",
+    "email": "elvis.lin.1994@gmail.com"
+  },
+  "main": "index.js",
+  "keywords": [
+    "substring",
+    "e-substring",
+    "string"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
