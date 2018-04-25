@@ -2,17 +2,17 @@
 
 # e-substring
 
-在两个指定字符串之间提取字符串中的字符。
+快速提取指定的两个字符串之间的字符。
 
-## Installation
+## 安装
 
-Using npm:
+使用 npm 安装:
 ```shell
 $ npm i -g npm
 $ npm i --save e-substring
 ```
 
-In Node.js:
+在 Node.js 中使用:
 ```js
 var substring = require('e-substring')
 var str = '<img src="https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/logo_white_fe6da1ec.png">'
