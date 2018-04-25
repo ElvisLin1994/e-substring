@@ -1,6 +1,6 @@
 {
   "name": "e-substring",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Extract characters in a string that are between two specified strings",
   "author": {
     "name": "Elvis Lin",

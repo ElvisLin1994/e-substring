@@ -16,7 +16,12 @@ $ npm i --save e-substring
 ```js
 var substring = require('e-substring')
 var str = '<img src="https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/logo_white_fe6da1ec.png">'
-console.log(substring(str, 'https', '.png')) // 'https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/logo_white_fe6da1ec.png'
+console.log(substring(str, 'https', '.png'))
+```
+
+输出结果:
+```shell
+$ https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/logo_white_fe6da1ec.png
 ```
 
 ## License
